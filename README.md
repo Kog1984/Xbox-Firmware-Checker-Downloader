@@ -1,5 +1,5 @@
 # Xbox Firmware Downloader
-Downloads Xbox Firmware
+Checks and Downloads Xbox Firmware from Microsoft Website
 
 Requires compiling with autoit
 https://www.autoitscript.com/autoit3/docs/intro/compiler.htm
